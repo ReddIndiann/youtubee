@@ -1,5 +1,5 @@
 // $(document).ready(function(){
-//     var API_KEY = "AIzaSyDW0naRLD4HWdiB4Sb4jmRv4RozqPVhi2Y";
+//     var API_KEY = "";
 //     var channelInfo = '';
 
 //     $("#form").submit(function(event){
